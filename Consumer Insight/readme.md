@@ -1,1 +1,2 @@
-Coursework for Consumer Insight Class
+# Consumer insight | Course repository
+## ESCP 2019/2020
